@@ -46,4 +46,4 @@ color-detection-opencv/
 
 ## 🙋‍♂️ Author
 
-Your Name - dishaaa5 / https://github.com/dishaaa5
+Disha / https://github.com/dishaaa5
