@@ -2,9 +2,6 @@
 
 This project uses OpenCV and NumPy to detect specific colors (Red, Green, Blue) in an image using HSV color space.
 
-## 📷 Preview
-
-![Color Detection Sample](sample_image.jpg)
 
 ## 🛠️ Features
 - Detects Red, Blue, and Green colors in an image.
